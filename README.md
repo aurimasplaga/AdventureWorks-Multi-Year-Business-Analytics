@@ -12,26 +12,22 @@ The project is divided into several key phases:
 5. Recommendations
 6. Conclusion & Future Work
 
-## 🛠 Technologies Used
+### 🛠 Technologies Used
 - **Google BigQuery**: For data querying, aggregation, and analysis across various datasets (Employee, Product, Sales, etc.).
 - **Power BI**: For data visualization, creating dashboards, and presenting key insights.
 - **GitHub**: For version control and project management.
 ---
 
-# 1. Data Collection & Preparation
+## 1. Data Collection & Preparation
 
 ### Data Sources
-- **Original Data Source:**  
-  
-  
-### Data Cleaning & Transformation
-- **Importing Data:**  
-  Load the modified dataset from CSVs, Excel files, or directly from a database.
-- **SQL-Based Data Cleaning:**  
-  Use SQL queries to handle missing values, standardize formats, and filter out irrelevant entries.
-- **Schema Development:**  
-  Organize the cleaned data into a star schema, which optimizes the dataset for efficient querying and reporting.
 
+- **Original Data Source**: The dataset was sourced from the Google BigQuery AdventureWorks database hosted by Turing College.
+- 
+### Data Cleaning & Transformation
+
+- **Data Cleaning**: The data was pre-cleaned and optimized for analysis.
+- **SQL Queries**: SQL queries were employed to extract relevant data for Power BI reporting.
 ---
 
 ## 2. Exploratory Data Analysis (EDA) Using SQL  
@@ -174,9 +170,29 @@ INNER JOIN `tc-da-1.adwentureworks_db.stateprovince` AS province
 | 9   | 284        | Amy       | Alberts    | Amy Alberts       | European Sales Manager  |
 | 10  | 268        | Stephen   | Jiang      | Stephen Jiang     | North American Sales Manager |
 
+---
 
 ## 3. Visualization with Power BI
 
-### Dynamic Dashboard with Bookmarks
+The project includes four key dashboards designed to provide valuable insights:
+
+- **Quarterly Performance Overview**: Displays performance metrics across different quarters, such as revenue, profit margins, and growth trends. This dashboard provides an at-a-glance view of the company's overall performance.
+  
+- **Sales Insights**: Focuses on sales efficiency, analyzing top-performing salespersons, product categories, and overall sales trends to identify opportunities for improvement and growth.
+
+- **Product Analytics**: Offers insights into the performance of individual products, analyzing factors like sales volume, average order value, and profitability. This helps in making data-driven decisions on product portfolio management.
+
+- **Regional Sales Analysis**: Breaks down sales data by region, providing a clear view of geographical performance. This dashboard highlights market opportunities and challenges by region, allowing for targeted strategies.
+
+Each dashboard leverages interactive features like filters, drill-downs, and visualizations (charts, tables, and KPIs) to give a comprehensive understanding of the business dynamics.
+
+*Example visuals and dashboard views:*
+- **Quarterly Performance Overview**: Line chart showing revenue growth over quarters.
+- **Sales Insights**: Stacked bar chart for sales performance by product category.
+- **Product Analytics**: Scatter plot for profitability vs. sales volume.
+- **Regional Sales Analysis**: Map visualization highlighting sales performance across regions.
+
+## 3. Visualization with Power BI
+
 
 ---
