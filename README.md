@@ -23,7 +23,7 @@ The project is divided into several key phases:
 ### Data Sources
 
 - **Original Data Source**: The dataset was sourced from the Google BigQuery AdventureWorks database hosted by Turing College.
-- 
+
 ### Data Cleaning & Transformation
 
 - **Data Cleaning**: The data was pre-cleaned and optimized for analysis.
