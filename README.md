@@ -176,13 +176,13 @@ INNER JOIN `tc-da-1.adwentureworks_db.stateprovince` AS province
 
 The project includes four key dashboards designed to provide valuable insights:
 
-- **Quarterly Performance Overview**: Displays performance metrics across different quarters, such as revenue, profit margins, and growth trends. This dashboard provides an at-a-glance view of the company's overall performance.
+- **[Quarterly Performance Overview](https://github.com/aurimasplaga/AdventureWorks-Multi-Year-Business-Analytics/blob/main/Dashboards/Performance%20KPIs.png)**: Displays performance metrics across different quarters, such as revenue, profit margins, and growth trends. This dashboard provides an at-a-glance view of the company's overall performance.
   
-- **Sales Insights**: Focuses on sales efficiency, analyzing top-performing salespersons, product categories, and overall sales trends to identify opportunities for improvement and growth.
+- **[Sales Insights](https://github.com/aurimasplaga/AdventureWorks-Multi-Year-Business-Analytics/blob/main/Dashboards/Sales%20Insights.png)**: Focuses on sales efficiency, analyzing top-performing salespersons, product categories, and overall sales trends to identify opportunities for improvement and growth.
 
-- **Product Analytics**: Offers insights into the performance of individual products, analyzing factors like sales volume, average order value, and profitability. This helps in making data-driven decisions on product portfolio management.
+- **[Product Analytics](https://github.com/aurimasplaga/AdventureWorks-Multi-Year-Business-Analytics/blob/main/Dashboards/Product%20Overview.png)**: Offers insights into the performance of individual products, analyzing factors like sales volume, average order value, and profitability. This helps in making data-driven decisions on product portfolio management.
 
-- **Regional Sales Analysis**: Breaks down sales data by region, providing a clear view of geographical performance. This dashboard highlights market opportunities and challenges by region, allowing for targeted strategies.
+- **[Regional Sales Analysis](https://github.com/aurimasplaga/AdventureWorks-Multi-Year-Business-Analytics/blob/main/Dashboards/Geographical%20Dashboard.png)**: Breaks down sales data by region, providing a clear view of geographical performance. This dashboard highlights market opportunities and challenges by region, allowing for targeted strategies.
 
 Each dashboard leverages interactive features like filters, drill-downs, and visualizations (charts, tables, and KPIs) to give a comprehensive understanding of the business dynamics.
 
