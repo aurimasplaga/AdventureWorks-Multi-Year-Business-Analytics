@@ -1,7 +1,7 @@
 # Project Name
 
 ### 🎯 Project Goal
-[Briefly describe the project, its purpose, and key features.]
+This project analyzes sales performance and revenue distribution within AdventureWorks, identifying key trends, top contributors, and overall business impact. By leveraging SQL and Power BI, the analysis provides insights into sales channels, salesperson effectiveness, and product category performance. The goal is to support executive decision-making by uncovering opportunities for growth, optimizing sales strategies, and improving resource allocation.
 
 ### 📄 Project Overview
 The project is divided into several key phases:
