@@ -171,6 +171,7 @@ INNER JOIN `tc-da-1.adwentureworks_db.stateprovince` AS province
 | 10  | 268        | Stephen   | Jiang      | Stephen Jiang     | North American Sales Manager |
 
 [All SQL queries used for aggregating data can be found here.](https://github.com/aurimasplaga/AdventureWorks-Multi-Year-Business-Analytics/blob/main/SQL%20Queries/SQL%20Queries.sql)
+
 ---
 
 ## 3. Visualization with Power BI
@@ -195,6 +196,7 @@ Each dashboard leverages interactive features like filters, drill-downs, and vis
 ![Monthly Chart](https://github.com/aurimasplaga/AdventureWorks-Multi-Year-Business-Analytics/blob/main/Dashboards/Monthly%20Sales%20Chart.png)
 
 [Interactive Dashboard template can be downloaded here](https://github.com/aurimasplaga/AdventureWorks-Multi-Year-Business-Analytics/blob/main/Dashboards/Template/Multi%20Year%20Business%20Analytics.pbit)
+
 ---
 ## 4. Insights & Findings
 
