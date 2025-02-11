@@ -46,11 +46,18 @@ FinalResult AS (
 )
 -- Retrieves final results ordered by sales amount
 SELECT 
-	* 
+  CASE
+    WHEN SalesPersonID IS NULL THEN 'Online Sales'
+    ELSE CAST(SalesPersonID AS STRING)
+  END AS SalesPersonID,
+  ROUND(SumSales,2) AS SumSales,
+  Ranking,
+  ROUND(CumulativeTotal,2) AS CumulativeTotal,
+  ROUND(TotalSales, 2) AS TotalSales,
+  ROUND(CumulativePercent,3) AS CumulativePercent
 FROM FinalResult
 ORDER BY 
 	SumSales DESC;
-
 -- Query to retrieve individual product details
 SELECT 
     prod.ProductID,  
