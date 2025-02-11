@@ -192,7 +192,4 @@ Each dashboard leverages interactive features like filters, drill-downs, and vis
 - **Product Analytics**: Scatter plot for profitability vs. sales volume.
 - **Regional Sales Analysis**: Map visualization highlighting sales performance across regions.
 
-## 3. Visualization with Power BI
-
-
 ---
