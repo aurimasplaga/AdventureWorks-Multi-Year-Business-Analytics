@@ -187,10 +187,44 @@ The project includes four key dashboards designed to provide valuable insights:
 Each dashboard leverages interactive features like filters, drill-downs, and visualizations (charts, tables, and KPIs) to give a comprehensive understanding of the business dynamics.
 
 *Example visuals and dashboard views:*
-- **Pareto Chart**: Line chart showing revenue growth over quarters.
+- **Pareto Analysis of Sales Performance: Revenue Contribution by Salesperson**: 
  ![Pareto Chart](https://github.com/aurimasplaga/AdventureWorks-Multi-Year-Business-Analytics/blob/main/Dashboards/Pareto%20Chart.png)
 - **Sales Insights**: Stacked bar chart for sales performance by product category.
 - **Product Analytics**: Scatter plot for profitability vs. sales volume.
 - **Regional Sales Analysis**: Map visualization highlighting sales performance across regions.
 
 ---
+## 4. Insights & Findings
+
+- **Sales Trends:**
+	- Overall revenue has grown steadily, with notable quarterly and monthly variations. For instance, Year 2 Q1 recorded high revenue despite a dip in profit, suggesting rising costs.
+- **Profitability:**
+	- Year 1 Q2 had the highest profit, while other quarters showed significant profit declines, indicating potential cost pressures.
+- **Sales Channels & Performance:**
+	- Offline transactions (87.9% of orders) dominate, and sales are highly concentrated among top performers—the top 5 salespeople contribute over 66% of total revenue.
+- **Product & Category Performance:**
+	- High-revenue subcategories include Mountain and Road Frames, with Road Bikes leading overall. While top items like the "Water Bottle - 30 oz." and "Fender Set - Mountain" perform well, some apparel items register losses.
+- **Geographical Insights:**
+	- Key US states such as California and Texas drive sales, and international markets show promising performance, though the US market remains dominant.
+
+---
+
+## 5. Recommendations
+
+- **Cost Optimization:** Investigate cost drivers in high-revenue quarters to improve profit margins.
+- **Sales Strategy:** Leverage the strength of offline channels while exploring opportunities to boost online sales.
+- **Product Focus:** Prioritize high-margin products and reassess product lines with recurring losses.
+- **Targeted Marketing:** Concentrate efforts on high-performing regions and support underperforming sales teams with targeted training and resources.
+
+---
+
+## 6. Conclusion & Future Work
+
+### Project Summary
+This analysis provided a clear view of sales and profitability trends, highlighting steady revenue growth but also identifying profit pressure due to rising costs. Key strengths include a dominant offline sales channel, concentrated top performer contributions, and robust performance in select product categories and regions.
+
+### Future Directions
+- **Predictive Analytics:** Develop models to forecast trends and manage costs proactively.
+- **Real-Time Reporting:** Integrate live data feeds into Power BI for dynamic decision-making.
+- **Enhanced Data Integration:** Expand analysis by incorporating more granular customer and cost data.
+- **Strategic Adjustments:** Tailor marketing and sales strategies based on regional performance and product profitability insights.
