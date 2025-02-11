@@ -187,7 +187,8 @@ The project includes four key dashboards designed to provide valuable insights:
 Each dashboard leverages interactive features like filters, drill-downs, and visualizations (charts, tables, and KPIs) to give a comprehensive understanding of the business dynamics.
 
 *Example visuals and dashboard views:*
-- **Quarterly Performance Overview**: Line chart showing revenue growth over quarters.
+- **Pareto Chart**: Line chart showing revenue growth over quarters.
+ ![Pareto Chart](https://github.com/aurimasplaga/AdventureWorks-Multi-Year-Business-Analytics/blob/main/Dashboards/Pareto%20Chart.png)
 - **Sales Insights**: Stacked bar chart for sales performance by product category.
 - **Product Analytics**: Scatter plot for profitability vs. sales volume.
 - **Regional Sales Analysis**: Map visualization highlighting sales performance across regions.
