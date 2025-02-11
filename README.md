@@ -1,4 +1,4 @@
-# Project Name
+# 📊 Adventureworks: Multi Year Business Analysis
 
 ### 🎯 Project Goal
 This project analyzes sales performance and revenue distribution within AdventureWorks, identifying key trends, top contributors, and overall business impact. By leveraging SQL and Power BI, the analysis provides insights into sales channels, salesperson effectiveness, and product category performance. The goal is to support executive decision-making by uncovering opportunities for growth, optimizing sales strategies, and improving resource allocation.
